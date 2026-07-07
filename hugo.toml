@@ -1,7 +1,6 @@
 baseURL = "https://siggin0er.github.io/good-news-site/"
 languageCode = "de-de"
 title = "Good News – Täglich positive Nachrichten"
-theme = ""
 enableEmoji = true
 [pagination]
   pagerSize = 12
