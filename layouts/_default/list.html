@@ -1,0 +1,30 @@
+{{ define "main" }}
+<h1 style="font-size:1.8rem; color:var(--dark); margin-bottom:1.5rem">📰 Alle Good News</h1>
+
+<div class="posts-grid">
+  {{ $pages := .Paginator.Pages }}
+  {{ range $pages }}
+    <article class="post-card">
+      {{ $img := .Resources.GetMatch "daily_post.jpg" }}
+      {{ if $img }}
+        <a href="{{ .RelPermalink }}">
+          <img src="{{ $img.RelPermalink }}" alt="{{ .Title }}" class="post-card-img" loading="lazy">
+        </a>
+      {{ else }}
+        <a href="{{ .RelPermalink }}">
+          <div class="post-card-img" style="background:linear-gradient(135deg, var(--green), #27ae60); display:flex; align-items:center; justify-content:center; color:white; font-size:3rem">🌍</div>
+        </a>
+      {{ end }}
+      <div class="post-card-body">
+        <h2 class="post-card-title"><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div class="post-card-meta">
+          {{ .Date.Format "02.01.2006" }} ·
+          {{ with .Params.source }}{{ . }}{{ end }}
+        </div>
+      </div>
+    </article>
+  {{ end }}
+</div>
+
+{{ template "_internal/pagination.html" . }}
+{{ end }}

@@ -1,0 +1,45 @@
+<aside class="sidebar">
+  <div class="sidebar-box">
+    <h3>🌱 Good News</h3>
+    <p style="font-size:0.9rem">
+      Jeden Tag eine positive Nachricht aus Umwelt, Technologie und Wissenschaft.
+      Fundiert, verständlich, optimistisch.
+    </p>
+    <p style="margin-top:0.8rem">
+      <a href="{{ "/posts/" | relURL }}" style="color:var(--green); font-weight:600; text-decoration:none">
+        → Alle Posts anzeigen
+      </a>
+    </p>
+  </div>
+
+  {{ if .Site.Params.affiliate_amazon_tag }}
+  <div class="sidebar-box affiliate-box">
+    <h3>{{ .Site.Params.affiliate_amazon_label }}</h3>
+    <p style="font-size:0.85rem">
+      <a href="https://www.amazon.de/dp/3442178582?tag={{ .Site.Params.affiliate_amazon_tag }}" target="_blank" rel="nofollow">
+        📖 "Factfulness" – Hans Rosling
+      </a><br>
+      <span style="color:#666; font-size:0.8rem">Wie wir lernen, die Welt positiv zu sehen</span>
+    </p>
+    <p style="font-size:0.85rem; margin-top:0.5rem">
+      <a href="https://www.amazon.de/dp/3423349900?tag={{ .Site.Params.affiliate_amazon_tag }}" target="_blank" rel="nofollow">
+        📖 "Hoffnung" – Jane Goodall
+      </a><br>
+      <span style="color:#666; font-size:0.8rem">Warum wir optimistisch in die Zukunft blicken können</span>
+    </p>
+    <small>Affiliate-Links – du unterstützt uns ohne Mehrkosten</small>
+  </div>
+  {{ end }}
+
+  {{ if .Site.Params.adsense_id }}
+  <div class="sidebar-box" style="text-align:center">
+    <h3>📢 Anzeige</h3>
+    <ins class="adsbygoogle" style="display:block" data-ad-client="{{ .Site.Params.adsense_id }}" data-ad-slot="1234567890" data-ad-format="auto"></ins>
+    <script>(adsbygoogle = window.adsbygoogle || []).push({});</script>
+  </div>
+  {{ else }}
+  <div class="sidebar-box ad-box">
+    📢 Werbung hier – später via AdSense oder Direktbuchung
+  </div>
+  {{ end }}
+</aside>

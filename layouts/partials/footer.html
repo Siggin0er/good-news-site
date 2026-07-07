@@ -1,0 +1,15 @@
+<footer class="site-footer">
+  <div class="footer-inner">
+    <p>🌍 <strong>Good News</strong> – Täglich positive Nachrichten aus Umwelt, Technologie &amp; Wissenschaft</p>
+    <p style="margin-top:0.5rem">
+      <a href="{{ "/" | relURL }}">Start</a> ·
+      <a href="{{ "/posts/" | relURL }}">Alle Posts</a> ·
+      <a href="{{ "/about/" | relURL }}">Über</a> ·
+      <a href="{{ .Site.Params.instagram_url }}">Instagram</a>
+    </p>
+    <p style="margin-top:0.5rem; font-size:0.8rem; color:#666">
+      Automatisch generiert · <a href="https://gohugo.io">Hugo</a> ·
+      Letzter Build: {{ now.Format "02.01.2006 15:04" }} Uhr
+    </p>
+  </div>
+</footer>

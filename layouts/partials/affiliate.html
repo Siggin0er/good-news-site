@@ -1,0 +1,18 @@
+{{ if .Site.Params.affiliate_amazon_tag }}
+<div class="affiliate-box">
+  <h4>📚 {{ .Site.Params.affiliate_amazon_label }}</h4>
+  <p style="font-size:0.9rem">
+    <a href="https://www.amazon.de/dp/3442178582?tag={{ .Site.Params.affiliate_amazon_tag }}" target="_blank" rel="nofollow">
+      "Factfulness" – Hans Rosling
+    </a>
+    <span style="color:#666"> – Wie wir lernen, die Welt positiv zu sehen</span>
+  </p>
+  <p style="font-size:0.9rem">
+    <a href="https://www.amazon.de/dp/3423349900?tag={{ .Site.Params.affiliate_amazon_tag }}" target="_blank" rel="nofollow">
+      "Hoffnung" – Jane Goodall
+    </a>
+    <span style="color:#666"> – Warum wir optimistisch in die Zukunft blicken können</span>
+  </p>
+  <small>🔗 Affiliate-Link – du unterstützt uns ohne Mehrkosten</small>
+</div>
+{{ end }}

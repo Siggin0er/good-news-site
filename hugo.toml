@@ -1,0 +1,37 @@
+baseURL = "https://siggin0er.github.io/good-news-site/"
+languageCode = "de-de"
+title = "Good News – Täglich positive Nachrichten"
+theme = ""
+enableEmoji = true
+[pagination]
+  pagerSize = 12
+
+[params]
+  description = "Täglich eine gute Nachricht aus Umwelt, Technologie und Wissenschaft – positiv, fundiert, verständlich."
+  author = "Good News Redaktion"
+  subtitle = "Gute Nachrichten für jeden Tag"
+  adsense_id = ""
+  affiliate_amazon_tag = "goodnews-21"
+  affiliate_amazon_label = "📚 Buchempfehlung"
+  instagram_url = "https://www.instagram.com/"
+
+[menu]
+  [[menu.main]]
+    name = "Start"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Alle Posts"
+    url = "/posts/"
+    weight = 2
+  [[menu.main]]
+    name = "Über"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Instagram"
+    url = "https://www.instagram.com/"
+    weight = 4
+
+# Taxonomien deaktiviert (leere Seiten vermeiden)
+disableKinds = ["taxonomy", "term"]

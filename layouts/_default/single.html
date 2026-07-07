@@ -1,0 +1,41 @@
+{{ define "main" }}
+<article class="post-single">
+  {{ $img := .Resources.GetMatch "daily_post.jpg" }}
+  {{ if $img }}
+    <img src="{{ $img.RelPermalink }}" alt="{{ .Title }}" class="post-single-img" loading="eager">
+  {{ end }}
+
+  <div class="post-single-body">
+    <h1>{{ .Title }}</h1>
+
+    <div class="post-meta">
+      {{ .Date.Format "02.01.2006" }}
+      {{ with .Params.source }} · Quelle: {{ . }}{{ end }}
+    </div>
+
+    <div class="post-content">
+      {{ .Content }}
+    </div>
+
+    {{ with .Params.url }}
+    <div class="post-source">
+      🔗 <strong>Quelle:</strong> <a href="{{ . }}" target="_blank" rel="noopener">{{ . }}</a>
+    </div>
+    {{ end }}
+  </div>
+</article>
+
+{{ partial "affiliate.html" . }}
+
+{{ if .Site.Params.adsense_id }}
+<div class="ad-box" style="margin-top:1.5rem">
+  📢 Anzeige (AdSense)
+</div>
+{{ end }}
+
+<div class="text-center mt-2 mb-2">
+  <a href="{{ "/posts/" | relURL }}" style="display:inline-block; background:var(--green); color:white; padding:0.8rem 2rem; border-radius:30px; text-decoration:none; font-weight:600">
+    ← Alle Posts
+  </a>
+</div>
+{{ end }}
