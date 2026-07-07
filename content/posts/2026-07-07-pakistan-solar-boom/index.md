@@ -2,7 +2,7 @@
 title: "Pakistan: Solar-Boom auf Dächern – 20 % des Stroms"
 date: 2026-07-07T18:24:00+02:00
 source: "Good News Network"
-url: "https://www.goodnewsnetwork.org/rooftop-solar-gave-power-to-pakistan-when-fossil-fuels-failed-its-now-called-a-boom/"
+source_url: "https://www.goodnewsnetwork.org/rooftop-solar-gave-power-to-pakistan-when-fossil-fuels-failed-its-now-called-a-boom/"
 slug: "pakistan-solar-boom"
 ---
 
