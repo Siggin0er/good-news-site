@@ -15,7 +15,7 @@ Dazu gehören anhaltende Müdigkeit, geringe Motivation, verlangsamte Bewegungen
 
 Das Ergebnis stammt aus bildgebenden Untersuchungen des menschlichen Gehirns. Solche Scans zeigen keine einzelne Ursache für alle Betroffenen. Long COVID bleibt ein vielfältiges Krankheitsbild mit unterschiedlichen biologischen Mechanismen.
 
-Trotzdem ist der Hinweis wichtig. Er lenkt die Forschung auf das Dopamin-System und damit auf einen konkreten therapeutischen Ansatz. Medikamente könnten künftig gezielter an diesen Signalwegen ansetzen.
+Trotzdem ist der Hinweis wichtig. Er lenkt die Forschung auf das Dopamin-System. Medikamente könnten künftig gezielter an diesen Signalwegen ansetzen.
 
 Bis dahin bleibt Vorsicht nötig. Die Ergebnisse belegen noch keine wirksame Behandlung. Sie erklären auch nicht automatisch jede Form von Erschöpfung nach einer Infektion.
 
