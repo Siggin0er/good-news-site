@@ -1,0 +1,12 @@
+---
+title: "Ein unbekannter Vogel schützt heute 123.000 Acres in Ecuador"
+date: 2026-09-23T15:01:06+02:00
+source: "Good News Network"
+source_url: "https://www.goodnewsnetwork.org/this-curious-bird-had-never-been-seen-before-and-its-discovery-changed-ecuador-perhaps-forever/"
+published: "Tue, 22 Sep 2026 15:30:15 +0000"
+slug: "ein-unbekannter-vogel-schützt-heute-123000-acres-in-ecuador"
+---
+
+1997 hörten Forschende in einem abgelegenen Wald Ecuadors einen ungewöhnlichen Vogelruf. Kurz darauf entdeckten sie einen großen Vogel mit grauem, schwarzem und braunem Gefieder. Seine langen Beine erinnerten an einen Watvogel. Die Forschenden hatten diese Art noch nie gesehen. Einheimische nannten ihn Jocotoco. Die Wissenschaft gab ihm später den Namen Grallaria ridgelyi. Er ehrt den Ornithologen Robert Ridgely, der die Expedition leitete. Der Fund veränderte den Naturschutz in Ecuador. Ridgely suchte dringend Geld für das Gebiet. Daraus entstand das Tapichalaca-Reservat. Es war das erste Schutzgebiet der Jocotoco Foundation. Heute umfasst ihr Netzwerk 19 private Landschaften. Zusammen schützen sie 123.000 Acres, also fast 50.000 Hektar. Weitere 200.000 Acres gehören lokalen Gemeinschaften. Die Flächen werden gemeinsam bewahrt und wiederhergestellt. Auch nachhaltiger Tourismus gehört zum Konzept. In den Reservaten wurden 1.350 Vogelarten dokumentiert. Das entspricht 12,5 Prozent aller Vogelarten weltweit. Dort leben außerdem Andenkondore und Brillenbären. Zu den bedrohten Arten zählen der El-Oro-Sittich und der Galápagos-Sturmvogel. Die Geschichte zeigt eine wichtige Verbindung. Eine einzelne Entdeckung kann Schutzgeld mobilisieren. Schutz funktioniert besonders gut mit lokalen Partnern. Die Foundation entdeckt weiterhin neue Arten. Sie findet auch Tiere wieder, die als ausgestorben galten. Gleichzeitig renaturiert sie Lebensräume vom Amazonas bis zu den Anden. Der Jocotoco beweist damit: Wissenschaft beginnt manchmal mit genauem Zuhören. Danach braucht sie Ausdauer, Geld und gemeinsame Verantwortung.
+
+🔗 **Quelle:** [https://www.goodnewsnetwork.org/this-curious-bird-had-never-been-seen-before-and-its-discovery-changed-ecuador-perhaps-forever/](https://www.goodnewsnetwork.org/this-curious-bird-had-never-been-seen-before-and-its-discovery-changed-ecuador-perhaps-forever/)
