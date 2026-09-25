@@ -13,13 +13,13 @@ Corticeira Amorim arbeitet seit rund 150 Jahren mit Kork. Das Unternehmen zeigt,
 
 Geerntet wird nicht der ganze Baum. Fachleute lösen die äußere Rinde vorsichtig vom Stamm. Die Korkeiche bleibt stehen und bildet neue Rinde. Ein einzelner Baum kann bis zu 200 Jahre alt werden. Nach der Reife lässt sich seine Rinde ungefähr neunmal ernten.
 
-Das macht Kork zu einem nachwachsenden Rohstoff mit ungewöhnlicher Ausdauer. Die Verarbeitung nutzt dabei verschiedene Eigenschaften. Verdichteter Kork kann Böden auf Kreuzfahrtschiffen schützen. Spezielle Verbundwerkstoffe isolieren empfindliche Bauteile in Raumfahrzeugen.
+Das macht Kork zu einem nachwachsenden Rohstoff mit ungewöhnlicher Ausdauer. Verdichteter Kork kann Böden auf Kreuzfahrtschiffen schützen. Spezielle Verbundwerkstoffe isolieren empfindliche Bauteile in Raumfahrzeugen.
 
-Der Vorteil liegt in der Zellstruktur. Millionen winziger Luftkammern bremsen Wärme und Schall. Gleichzeitig bleibt das Material elastisch. Kork nimmt außerdem Wasser nur schwer auf und widersteht vielen Chemikalien.
+Millionen winziger Luftkammern bremsen Wärme und Schall. Gleichzeitig bleibt das Material elastisch. Kork nimmt außerdem Wasser nur schwer auf und widersteht vielen Chemikalien.
 
 Spannend finde ich den Perspektivwechsel. Ein Material aus der Weinproduktion löst Aufgaben in der Raumfahrt. Dafür braucht es keine seltene Hightech-Ressource. Es genügt, einen erneuerbaren Rohstoff präzise weiterzuentwickeln.
 
-Die Idee zeigt auch eine Grenze. Kork wächst langsam und stammt aus empfindlichen Ökosystemen. Nachhaltigkeit hängt deshalb von schonender Ernte und langfristiger Waldpflege ab. Richtig eingesetzt kann die Rinde jedoch viele langlebige Produkte ersetzen.
+Kork wächst langsam und stammt aus empfindlichen Ökosystemen. Nachhaltigkeit hängt deshalb von schonender Ernte und langfristiger Waldpflege ab. Richtig eingesetzt kann die Rinde jedoch viele langlebige Produkte ersetzen.
 
 Quelle: Good News Network
 
