@@ -27,6 +27,4 @@ Das Modell verbindet Naturschutz mit Einkommen. Die Menschen kennen ihre Böden 
 
 Rechte, Verantwortung und bessere Märkte stärken die Gemeinden zugleich. Biodiversität wird gemeinsam mit der Wirtschaft geschützt.
 
-🔗 Quelle: https://happyeconews.com/in-gujarat-sahjeevan-works-with-pastoralist-communities-to-preserve-prairies/
-
 🔗 **Quelle:** [https://happyeconews.com/in-gujarat-sahjeevan-works-with-pastoralist-communities-to-preserve-prairies/](https://happyeconews.com/in-gujarat-sahjeevan-works-with-pastoralist-communities-to-preserve-prairies/)
