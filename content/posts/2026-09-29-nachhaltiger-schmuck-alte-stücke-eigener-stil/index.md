@@ -11,7 +11,7 @@ Nachhaltiger Schmuck muss nicht neu glänzen. Oft beginnt eine bessere Sammlung 
 
 Die Herstellung von Schmuck braucht Metalle, Edelsteine, Energie und Transporte. Wer seltener kauft, senkt den Bedarf an neuen Rohstoffen. Ein gut gefertigtes Goldarmband kann bei zweimaligem Tragen pro Woche drei Jahrzehnte Freude machen. Fünf kurzlebige Trendstücke liegen dagegen oft ungenutzt in der Schublade.
 
-Gebrauchter Schmuck verbindet Umweltschutz mit persönlichem Stil. Ein Ring aus den 1960er-Jahren kann neben einem modernen Armband aus recyceltem Gold bestehen. Erbstücke bringen außerdem Erinnerungen in den Alltag. Beim Kauf helfen einige einfache Prüfungen. Achte auf Echtheitsstempel, die Fassung der Steine und den allgemeinen Zustand. Frühere Reparaturen sollten beschrieben sein. Kaufe möglichst bei etablierten Händlern mit klaren Angaben und Rückgaberecht.
+Gebrauchter Schmuck verbindet Umweltschutz mit persönlichem Stil. Ein Ring aus den 1960er-Jahren kann neben einem modernen Armband aus recyceltem Gold bestehen. Beim Kauf helfen einige einfache Prüfungen. Achte auf Echtheitsstempel, die Fassung der Steine und den allgemeinen Zustand. Kaufe möglichst bei etablierten Händlern mit klaren Angaben und Rückgaberecht.
 
 Auch neue Stücke können sinnvoll sein. Wähle Schmuck, der zu mehreren Kleidungsstilen passt. Stelle dir vor dem Kauf mindestens drei konkrete Outfits vor. Fällt dir keines ein, bleibt das Stück wahrscheinlich oft liegen. Frage außerdem nach recycelten Metallen und der Herkunft der Materialien.
 
