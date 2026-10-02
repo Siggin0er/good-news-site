@@ -22,5 +22,3 @@ Besonders spannend ist die Verbindung von Naturgefahr und Forschung. Geologen ko
 Capelinhos erinnert außerdem an die Widerstandskraft der Menschen. Nach der Katastrophe bauten viele Bewohner ihre Gemeinden wieder auf.
 
 Die Geschichte zeigt: Natur kann zerstören und zugleich neue Landschaft schaffen. Aus Asche entstand vor Faial ein sichtbares Archiv der Erdgeschichte.
-
-🔗 Quelle: https://www.goodnewsnetwork.org/events061002/
