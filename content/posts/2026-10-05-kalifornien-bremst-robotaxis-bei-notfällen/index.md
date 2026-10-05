@@ -27,6 +27,4 @@ Spannend finde ich den Perspektivwechsel: Sicherheit endet nicht beim korrekten 
 
 Kalifornien testet damit ein Modell für andere Bundesstaaten. Klare Pflichten sollen den Alltag mit Robotaxis ruhiger machen.
 
-🔗 Quelle: https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/
-
 🔗 **Quelle:** [https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/](https://techcrunch.com/2026/10/04/techcrunch-mobility-reining-in-robotaxis/)
