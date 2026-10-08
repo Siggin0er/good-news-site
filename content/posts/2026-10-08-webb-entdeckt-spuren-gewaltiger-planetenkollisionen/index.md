@@ -7,19 +7,19 @@ published: "Wed, 07 Oct 2026 09:09:15 EDT"
 slug: "webb-entdeckt-spuren-gewaltiger-planetenkollisionen"
 ---
 
-Das James-Webb-Weltraumteleskop beobachtet kosmische Spuren gewaltiger Planetenkollisionen.
+Das James-Webb-Weltraumteleskop beobachtet Spuren gewaltiger Planetenkollisionen.
 
-Astronomen untersuchten 21 seltene Staubscheiben um junge Sterne. Diese Scheiben entstehen, wenn Körper aus Gestein und Eis aufeinanderprallen. Der Staub verteilt sich danach über große Bereiche rund um den Stern.
+Astronomen untersuchten 21 seltene Staubscheiben um junge Sterne. Diese Scheiben entstehen, wenn Körper aus Gestein und Eis aufeinanderprallen. Danach verteilt sich der Staub über große Bereiche rund um den Stern.
 
-Die Forschenden konnten aus dem Staub auf die Größe und Stärke der Kollisionen schließen. Besonders helle und ausgedehnte Scheiben deuten auf besonders energiereiche Zusammenstöße hin. Solche Ereignisse könnten Planeten dauerhaft verändern oder sogar neu formen.
+Die Forschenden konnten aus dem Staub auf Größe und Stärke der Kollisionen schließen. Helle, ausgedehnte Scheiben deuten auf besonders energiereiche Zusammenstöße hin. Solche Ereignisse können Planeten dauerhaft verändern oder neu formen.
 
-Die Beobachtungen helfen dabei, die Entstehung unseres Sonnensystems besser zu verstehen. Auch die Erde trägt vermutlich die Spuren einer solchen Katastrophe. Nach heutiger Forschung kollidierte vor rund 4,5 Milliarden Jahren ein marsgroßer Himmelskörper mit der jungen Erde.
+Die Beobachtungen helfen, die Entstehung unseres Sonnensystems besser zu verstehen. Auch die Erde trägt vermutlich die Spuren einer solchen Katastrophe. Vor rund 4,5 Milliarden Jahren kollidierte ein marsgroßer Himmelskörper mit der jungen Erde.
 
-Aus den Trümmern dieser Kollision entstand wahrscheinlich der Mond. Webb liefert nun einen Blick auf ähnliche Prozesse in anderen Planetensystemen. Das Teleskop erkennt dabei nicht den Aufprall selbst. Es analysiert die Staubwolken, die danach zurückbleiben.
+Aus den Trümmern entstand wahrscheinlich der Mond. Webb zeigt nun ähnliche Prozesse in anderen Planetensystemen. Das Teleskop erkennt den Aufprall nicht direkt. Es analysiert die Staubwolken, die danach zurückbleiben.
 
-Spannend finde ich die Verbindung zwischen fernen Sternen und unserer eigenen Geschichte. Jede der 21 Scheiben wirkt wie ein mögliches Archiv planetarer Gewalt. Ihre Helligkeit und Form verraten, wie viel Material bei den Zusammenstößen frei wurde.
+Spannend finde ich die Verbindung zwischen fernen Sternen und unserer eigenen Geschichte. Jede der 21 Scheiben wirkt wie ein Archiv planetarer Gewalt. Ihre Helligkeit und Form verraten, wie viel Material dabei frei wurde.
 
-Die Ergebnisse zeigen außerdem, dass Planetensysteme lange nach der Sternentstehung dynamisch bleiben. Kollisionen können dort noch stattfinden, wenn sich die großen Planeten bereits gebildet haben. Webb macht diese seltenen Entwicklungsphasen erstmals in großer Detailtiefe vergleichbar.
+Die Ergebnisse zeigen außerdem, dass Planetensysteme dynamisch bleiben. Kollisionen können noch stattfinden, wenn sich große Planeten bereits gebildet haben. Webb macht diese seltenen Entwicklungsphasen vergleichbar.
 
 Quelle: ScienceDaily
 
