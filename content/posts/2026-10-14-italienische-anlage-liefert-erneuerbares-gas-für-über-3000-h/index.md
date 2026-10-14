@@ -25,6 +25,4 @@ Biomethan ersetzt nicht jede fossile Energiequelle. Trotzdem kann es dort helfen
 
 Die Anlage zeigt einen praktischen Weg für die Energiewende. Landwirtschaftliche Reststoffe werden zu nutzbarer Energie. Mehr als 3.000 Haushalte erhalten dadurch erneuerbares Gas.
 
-🔗 Quelle: https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/
-
 🔗 **Quelle:** [https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/](https://www.goodnewsnetwork.org/italian-biomethane-plant-comes-online-providing-renewable-gas-supply-to-over-3000-homes/)
