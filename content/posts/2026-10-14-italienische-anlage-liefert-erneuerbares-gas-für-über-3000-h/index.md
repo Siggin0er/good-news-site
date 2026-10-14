@@ -13,7 +13,7 @@ In Grottole, Süditalien, ist eine große Biomethan-Anlage ans Netz gegangen. Si
 
 Die Anlage soll jährlich 45 Gigawattstunden erneuerbare Energie liefern. Das entspricht 45 Millionen Kilowattstunden. Damit kann sie mehr als 3.000 Haushalte mit Gas versorgen.
 
-Gleichzeitig spart die Anlage rund 9.000 Tonnen CO₂ pro Jahr ein. Rechnerisch sind das etwa 3 Tonnen CO₂ je versorgtem Haushalt. Die Zahl zeigt, welchen Effekt regionale Energieprojekte erreichen können.
+Gleichzeitig spart die Anlage rund 9.000 Tonnen CO₂ pro Jahr ein. Rechnerisch sind das etwa 3 Tonnen CO₂ je versorgtem Haushalt. Diese Zahl zeigt die Wirkung regionaler Energieprojekte.
 
 Das Prinzip ist einfach: Mikroorganismen zersetzen organisches Material ohne Sauerstoff. Dabei entsteht Biogas. Anschließend wird das Gas gereinigt und zu Biomethan aufbereitet. Biomethan besitzt ähnliche Eigenschaften wie fossiles Erdgas.
 
