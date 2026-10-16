@@ -7,8 +7,6 @@ published: "Thu, 15 Oct 2026 08:52:05 EDT"
 slug: "das-gehirn-verarbeitet-sprache-trotz-narkose"
 ---
 
-Das Gehirn verarbeitet Sprache trotz Narkose
-
 Eine Vollnarkose schaltet das Bewusstsein aus. Das Gehirn arbeitet trotzdem weiter.
 
 Forschende des Baylor College of Medicine untersuchten Menschen während einer Epilepsieoperation. Sie zeichneten Nervensignale im Hippocampus auf.
