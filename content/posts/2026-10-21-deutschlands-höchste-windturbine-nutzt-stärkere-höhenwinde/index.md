@@ -33,6 +33,4 @@ Noch läuft der Praxistest. Die Ertragsprognosen müssen sich im Betrieb erst be
 
 Spannend finde ich den Ansatz trotzdem. Mehr Strom könnte entstehen, ohne neue Windparkflächen zu genehmigen.
 
-🔗 Quelle: https://www.optimistdaily.com/2026/10/worlds-tallest-wind-turbine-reaches-1197-feet-in-germany/
-
 🔗 **Quelle:** [https://www.optimistdaily.com/2026/10/worlds-tallest-wind-turbine-reaches-1197-feet-in-germany/](https://www.optimistdaily.com/2026/10/worlds-tallest-wind-turbine-reaches-1197-feet-in-germany/)
