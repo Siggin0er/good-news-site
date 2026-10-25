@@ -39,5 +39,3 @@ Trotzdem verraten sie Prozesse von vor 4,5 Milliarden Jahren.
 Aus winzigen Proben entsteht so ein genaueres Bild unserer kosmischen Herkunft.
 
 🔗 Quelle: https://www.sciencedaily.com/releases/2026/10/261023023734.htm
-
-🔗 **Quelle:** [https://www.sciencedaily.com/releases/2026/10/261023023734.htm](https://www.sciencedaily.com/releases/2026/10/261023023734.htm)
