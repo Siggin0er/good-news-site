@@ -33,6 +33,4 @@ Ein diagnostischer Test für den Alltag ist daraus noch nicht entstanden. Weiter
 
 Spannend finde ich den methodischen Schritt: 128 Messpunkte liefern ein deutlich vollständigeres Bild als einzelne Elektroden. Die Studie erschien in „Nature Mental Health“.
 
-🔗 Quelle: https://www.sciencedaily.com/releases/2026/10/261027063824.htm
-
 🔗 **Quelle:** [https://www.sciencedaily.com/releases/2026/10/261027063824.htm](https://www.sciencedaily.com/releases/2026/10/261027063824.htm)
