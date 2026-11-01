@@ -25,6 +25,4 @@ Spannend finde ich den möglichen Prüfweg. Eine jahrzehntealte Teilchenidee kö
 
 Damit würde die Forschung nicht nur erklären, warum Materie überlebte. Sie könnte auch zeigen, welche Spuren die ersten Momente des Universums bis heute hinterlassen haben.
 
-🔗 Quelle: https://www.sciencedaily.com/releases/2026/10/261031221201.htm
-
 🔗 **Quelle:** [https://www.sciencedaily.com/releases/2026/10/261031221201.htm](https://www.sciencedaily.com/releases/2026/10/261031221201.htm)
