@@ -7,8 +7,6 @@ published: "Tue, 03 Nov 2026 03:11:10 EST"
 slug: "voyager-1-erreicht-bald-einen-lichttag-entfernung"
 ---
 
-Voyager 1 erreicht bald einen Lichttag Entfernung
-
 Fast 50 Jahre nach dem Start nähert sich Voyager 1 einem besonderen Meilenstein. Am 18. November wird die Sonde einen Lichttag von der Erde entfernt sein. Das entspricht rund 25,9 Milliarden Kilometern.
 
 Das Signal braucht dann 24 Stunden bis zur Erde. Eine Antwort benötigt weitere 24 Stunden. Jede Funkverbindung dauert mindestens 48 Stunden. Deshalb muss die Missionskontrolle jeden Befehl präzise planen.
