@@ -19,7 +19,7 @@ Erste Versuche mit Mäusen liefern ermutigende Hinweise. Die Tiere zeigten eine 
 
 Der Ansatz könnte langfristig gegen altersbedingten Muskelschwund helfen. Er könnte auch den Erhalt von Kraft unterstützen. Dafür müssen weitere Studien Sicherheit, Dosierung und Wirkung untersuchen.
 
-Spannend ist die Strategie hinter der Entdeckung. Die Forschenden ersetzen kein körpereigenes Signal. Sie verstärken ein vorhandenes Reparaturprotein und schützen es zugleich vor altersbedingten Schäden.
+Spannend ist die Strategie hinter der Entdeckung. Die Forschenden ersetzen kein körpereigenes Signal. Sie verstärken ein vorhandenes Reparaturprotein und schützen es vor altersbedingten Schäden.
 
 Bis zu einer Anwendung beim Menschen bleibt es ein Forschungsergebnis. Trotzdem zeigt die Studie, wie gezielte Proteinveränderungen die Muskelgesundheit unterstützen könnten.
 
