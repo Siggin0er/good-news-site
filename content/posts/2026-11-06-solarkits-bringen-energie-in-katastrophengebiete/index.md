@@ -7,15 +7,15 @@ published: "Fri, 06 Nov 2026 00:00:13 +0000"
 slug: "solarkits-bringen-energie-in-katastrophengebiete"
 ---
 
-Wenn Stromnetze ausfallen, wird ein kleines Solarpanel zur wichtigen Infrastruktur.
+Wenn Stromnetze ausfallen, wird ein Solarpanel zur wichtigen Infrastruktur.
 
-Im Flüchtlingslager Teknaf in Bangladesch nutzt Mohammed Saber seit sechs Jahren ein Panel. Seine Familie floh 2017 vor der Gewalt in Myanmar. Das 35-jährige Familienmitglied lädt damit Handys, beleuchtet den Kochplatz und ermöglicht Kindern das Lernen am Abend. Ventilatoren helfen bei Hitze.
+Im Flüchtlingslager Teknaf in Bangladesch nutzt Mohammed Saber seit sechs Jahren ein Panel. Seine Familie floh 2017 vor der Gewalt in Myanmar. Das Familienmitglied lädt damit Handys, beleuchtet den Kochplatz und ermöglicht Kindern das Lernen am Abend. Ventilatoren helfen bei Hitze.
 
 Solarkits bestehen aus Laternen, Taschenlampen, Heizmatten oder Haussystemen. Auch elektrische Kochgeräte gehören dazu. Ihr Vorteil: Sie funktionieren unabhängig vom Stromnetz und lassen sich schnell transportieren.
 
 In Karachi betreibt Ärzte ohne Grenzen eine Tuberkuloseklinik mit Solarstrom. Im südsudanesischen Renk County versorgt eine Filteranlage vertriebene Familien mit sauberem Wasser. Nach den Überschwemmungen in Nepal verteilten Hilfsorganisationen Solarkits an Menschen ohne Netzanschluss. Die Flut im August forderte 1.455 Todesopfer und ließ 5.285 Menschen vermisst zurück.
 
-In der Ukraine erhielten bereits Tausende Familien Solarkits. Darunter waren Menschen zwischen 75 und 80 Jahren. Die Bedienung funktioniert ohne lange Schulung: anschließen, aufladen, nutzen.
+In der Ukraine erhielten Tausende Familien Solarkits. Darunter waren Menschen zwischen 75 und 80 Jahren. Die Bedienung funktioniert ohne Schulung: anschließen, aufladen, nutzen.
 
 Solarenergie senkt laufende Kosten. Treibstoff ist teuer und erreicht zerstörte Regionen oft nur schwer. Serienproduktion und effizientere Module machten Solarkits erschwinglicher.
 
