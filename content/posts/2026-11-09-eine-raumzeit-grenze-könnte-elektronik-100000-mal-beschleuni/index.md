@@ -18,5 +18,3 @@ Für die Technik ist diese Erkenntnis wichtig. Wer Elektronen gezielt steuern wi
 Auch chemische Reaktionen könnten sich genauer untersuchen und gezielter beeinflussen lassen. Das betrifft etwa Katalysatoren, Energiespeicher und Materialien für die Quantenforschung.
 
 Noch ist daraus kein fertiger Superchip entstanden. Die Studie liefert aber eine präzise Leitlinie für Bauteile mit extrem kurzen Zeiten und winzigen Längenskalen. Ein Elektron kann räumlich und zeitlich nicht gleichzeitig beliebig genau beschrieben werden. Genau diese Einschränkung könnte schnellere Technik ermöglichen.
-
-🔗 **Quelle:** [https://www.sciencedaily.com/releases/2026/11/261106174537.htm](https://www.sciencedaily.com/releases/2026/11/261106174537.htm)
