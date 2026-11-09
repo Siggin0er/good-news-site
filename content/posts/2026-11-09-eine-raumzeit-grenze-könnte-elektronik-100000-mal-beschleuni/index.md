@@ -6,7 +6,6 @@ source_url: "https://www.sciencedaily.com/releases/2026/11/261106174537.htm"
 published: "Sat, 07 Nov 2026 18:34:19 EST"
 slug: "eine-raumzeit-grenze-könnte-elektronik-100000-mal-beschleuni"
 ---
-
 Forschende haben eine bislang verborgene Grenze zwischen Raum und Zeit beobachtet. Sie beschreibt, wie präzise sich ein Elektron gleichzeitig an einem Ort und zu einem bestimmten Zeitpunkt verfolgen lässt.
 
 Mehr Genauigkeit bei der Position bedeutet weniger Genauigkeit beim Zeitpunkt. Umgekehrt wird der Zeitpunkt schärfer, wenn die Ortsinformation ungenauer bleibt. Die Grenze ähnelt dem Unschärfeprinzip. Sie verbindet räumliche und zeitliche Messungen jedoch in einem gemeinsamen Zusammenhang.
