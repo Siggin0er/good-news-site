@@ -9,7 +9,7 @@ slug: "warum-herzinfarkte-trotz-niedrigem-ldl-möglich-bleiben"
 
 Ein niedriger LDL-Wert schützt vor Herzinfarkten, aber nicht vollständig. Eine Studie der Chalmers University of Technology erklärt mögliche Gründe.
 
-Das Team untersuchte Blutproben mit Messungen von fast 3.000 Proteinen. Zusätzlich verglichen die Forschenden genetische Daten und langfristige Gesundheitsverläufe.
+Das Team untersuchte Blutproben mit Messungen von fast 3.000 Proteinen.
 
 Im Mittelpunkt standen drei Fetttransporter: LDL, TRL und Lp(a). LDL transportiert den größten Teil des Cholesterins im Blut. TRL transportiert vor allem Triglyceride und Cholesterin. Lp(a) ähnelt LDL, trägt aber zusätzlich das Eiweiß Apolipoprotein(a).
 
@@ -17,7 +17,7 @@ Alle drei Partikel können Ablagerungen in Arterien fördern. TRL und Lp(a) zeig
 
 Die Partikel könnten Immunzellen anlocken. Dadurch kann sich die Gefäßwand verändern, auch wenn der LDL-Wert bereits im empfohlenen Bereich liegt. LDL zeigte dagegen vor allem den bekannten Zusammenhang mit Cholesterinablagerungen.
 
-Die Ergebnisse erklären, warum manche Menschen trotz erfolgreicher LDL-Senkung ein Restrisiko behalten. Sie liefern außerdem Ansatzpunkte für individuellere Vorsorge.
+Die Ergebnisse erklären, warum manche Menschen trotz erfolgreicher LDL-Senkung ein Restrisiko behalten.
 
 Wichtig bleibt die Einschränkung: Die Studie testete keine neue Behandlung. Auch ein fertiger Bluttest für den Alltag entstand daraus noch nicht. Weitere Untersuchungen müssen zeigen, ob sich TRL und Lp(a) gezielt beeinflussen lassen.
 
