@@ -20,5 +20,3 @@ Das Team entwickelte deshalb den Test „reverse predictivity“. Damit lässt s
 Dafür braucht es Modelle, die nicht nur richtige Ergebnisse liefern. Sie sollten auch ähnliche Verarbeitungsschritte wie das Gehirn verwenden.
 
 Die Botschaft lautet nicht, dass neuronale Netze nutzlos sind. Ihre Ergebnisse werden wertvoller, wenn Forschende zusätzlich den Weg dorthin überprüfen. Studie: „Nature Machine Intelligence“.
-
-🔗 **Quelle:** [https://www.sciencedaily.com/releases/2026/11/261120075701.htm](https://www.sciencedaily.com/releases/2026/11/261120075701.htm)
