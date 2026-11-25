@@ -17,13 +17,11 @@ Pollen stammt von Pflanzen, die nur in bestimmten Regionen wachsen. Deshalb kön
 
 Sie könnten außerdem zeigen, wo das Schiff repariert wurde. Damit wird die Beschichtung zu einer historischen Karte aus Harz, Wachs und Pflanzenstaub.
 
-Das Wrack ist rund 2200 Jahre alt. Jeder Fund verbindet dabei mehrere Forschungsfelder: Archäologie, Materialwissenschaft und Botanik.
+Das Wrack ist rund 2200 Jahre alt. Die Untersuchung verbindet Archäologie, Materialwissenschaft und Botanik.
 
 Die Methode hilft, alte Handelswege genauer zu rekonstruieren. Sie macht auch sichtbar, wie gut antike Menschen lokale Rohstoffe technisch nutzten.
 
 Kiefernteer war wasserabweisend. Bienenwachs ergänzte diesen Schutz und konnte kleine Unebenheiten in der Holzoberfläche verschließen.
-
-Heute untersuchen Wissenschaftler solche Rückstände mit Mikroskopie und chemischen Analysen. So lesen sie Informationen aus Schichten, die früher unscheinbar wirkten.
 
 Spannend finde ich: Nicht nur das Holz überlebt die Jahrhunderte. Auch Pollen und Handwerksspuren erzählen, wohin ein Schiff fuhr und wo es instand gesetzt wurde.
 
